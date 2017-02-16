@@ -5,3 +5,4 @@ then
        echo "this is biger"
 fi
 date
+uptime
